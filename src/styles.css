@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card-body{
+  text-align: center;
+}
+
+button{
+  background-color: rgba(244, 243, 243, 0.896);
+  
+}
+.roww{
+  display: flex;
+}
+.title{
+  font-size: xx-large;
+  display: flex;
+  justify-content: flex-start;
+}
+.nav{
+  margin-left: 210px;
+}
+.nav-link{
+  display: flex; 
+justify-content: flex-end;
+}
